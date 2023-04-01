@@ -1,7 +1,6 @@
-/* Author: Asim Timsina (asimtimsina@my.unt.edu)
+/* Author: Asim Timsina 
  Date: 02/22/2020
- Instructor: Helsing Joseph
- Description:  Project 2 Assignment
+
 */
 
 #include <iostream>
